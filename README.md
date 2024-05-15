@@ -33,7 +33,7 @@
 
 Estou construindo minha carreira na área de tecnologia como desenvolvedor de software. Aqui, estou envolvido em projetos reais e desenvolvendo as habilidades técnicas necessárias para minha completa formação. Minha paixão e foco agora estão na tecnologia, onde estou determinado a crescer e contribuir significativamente.
 
-<img align="center" alt="Footer2" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gray&section=footer"/>
+<img align="center" alt="Footer2" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00bfbf&section=footer"/>
 
 
 
