@@ -7,10 +7,10 @@
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/> GitHub Stats:
 
 <div>
-<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucas-novaesm&theme=github_dark"/>
+<img align="right" alt="GitHub Details" width="420px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucas-novaesm&theme=github_dark"/>
 <!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaopauloaramuni&theme=github_dark"/> -->
-<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucas-novaesm&theme=github_dark"/>
-<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucas-novaesm&theme=github_dark"/>
+<img alt="GitHub Stats" width="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucas-novaesm&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucas-novaesm&theme=github_dark"/>
 </div>
 
 -----
