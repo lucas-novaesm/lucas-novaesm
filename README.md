@@ -4,7 +4,7 @@
 
 -----
  
-<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/> GitHub Stats:
+## GitHub Stats:
 
 <div>
 <img align="right" alt="GitHub Details" width="420px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucas-novaesm&theme=github_dark"/>
