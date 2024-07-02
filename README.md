@@ -4,7 +4,7 @@
 
 -----
  
-## GitHub Stats:
+# GitHub Stats:
 
 <div>
 <img align="right" alt="GitHub Details" width="420px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucas-novaesm&theme=github_dark"/>
@@ -24,7 +24,7 @@
 
 -----
 
-<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas do meu dia a dia:
+# Linguagens e ferramentas do meu dia a dia:
 
 <div style="display: inline_block"><br/>
     <img align="center" alt=html5 src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
