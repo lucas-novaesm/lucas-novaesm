@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucas+Novaes+Meira;I'm+26+years+old;I+am+from+Belo+Horizonte,+MG;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucas+Novaes+Meira;I'm+27+years+old;I+am+from+Belo+Horizonte,+MG;Be+Welcome!+:%29)](https://git.io/typing-svg)
 -----
  
  GitHub Stats:
@@ -47,7 +47,11 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-Estou construindo minha carreira na área de tecnologia como desenvolvedor de software. Aqui, estou envolvido em projetos reais e desenvolvendo as habilidades técnicas necessárias para minha completa formação. Minha paixão e foco agora estão na tecnologia, onde estou determinado a crescer e contribuir significativamente.
+Sou desenvolvedor backend com foco em soluções utilizando C# e .NET. Tenho experiência na construção de APIs, integração de sistemas e modelagem de dados, sempre aplicando boas práticas como SOLID e Clean Code.
+
+Atuo em ambientes ágeis, colaborando com equipes para entregar soluções eficientes, escaláveis e alinhadas às necessidades do negócio. Estou em constante evolução, buscando aprimorar minhas habilidades técnicas e contribuir com projetos desafiadores.
+
+Tenho 3 anos de experiência na área da tecnologia, atuando em diferentes funções de suporte e operação, o que ampliou minha visão técnica e colaborativa. Também atuei por 5 anos no setor imobiliário, passando por áreas como supervisão, jurídico e atendimento, o que fortaleceu minha capacidade analítica, de comunicação e resolução de problemas.
 
 <img align="center" alt="Footer2" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00bfbf&section=footer"/>
 
