@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lucas+Novaes+Meira;I'm+27+years+old;I+am+from+Belo+Horizonte,+MG;Be+Welcome!+:%29)](https://git.io/typing-svg)
 -----
  
- GitHub Stats:
+ GitHub Stats: 
 
 <div>
 <img align="right" alt="GitHub Details" width="420px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucas-novaesm&theme=github_dark"/>
